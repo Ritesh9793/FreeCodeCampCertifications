@@ -21,13 +21,13 @@ The certification focuses on foundational C# programming concepts, problem-solvi
 
 ## Certificate
 
-![Foundational C# Certificate](./image(17).png)
+![Foundational C# Certificate](./Screenshot%202026-05-27%20113054.png)
 
 ---
 
 ## Exam Result Screenshot
 
-![Exam Result](./Screenshot%202026-05-27%20113054.png)
+![Exam Result](./Screenshot%202026-05-27%20113113.png)
 
 ---
 
