@@ -90,17 +90,11 @@ This repository serves as:
 
 ### Ritesh Gupta
 
-- GitHub: :contentReference[oaicite:4]{index=4}
-- freeCodeCamp: :contentReference[oaicite:5]{index=5}
-- Microsoft Learn: :contentReference[oaicite:6]{index=6}
-
----
-
-## References
-
-- :contentReference[oaicite:7]{index=7}
-- :contentReference[oaicite:8]{index=8}
-- :contentReference[oaicite:9]{index=9}
+- ritesh97935gupt@gmail.com
+- LinkedIn: https://www.linkedin.com/in/rit3sh-6upta/
+- GitHub: https://www.github.com/Ritesh9793
+- freeCodeCamp: https://www.freecodecamp.org/certification/ritesh_gupta/
+- Microsoft Learn: https://learn.microsoft.com/en-us/users/riteshgupta-4061/
 
 ---
 
