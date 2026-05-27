@@ -34,10 +34,10 @@ The certification focuses on foundational C# programming concepts, problem-solvi
 ## Verification Links
 
 ### freeCodeCamp Certification
-:contentReference[oaicite:1]{index=1}
+https://www.freecodecamp.org/certification/ritesh_gupta/foundational-c-sharp-with-microsoft
 
 ### Microsoft Learn Profile
-:contentReference[oaicite:2]{index=2}
+https://learn.microsoft.com/en-us/users/riteshgupta-4061/
 
 ---
 
