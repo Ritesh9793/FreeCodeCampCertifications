@@ -5,7 +5,7 @@ This repository contains beginner-to-intermediate projects focused on DOM manipu
 
 ---
 
-![Certification Banner](https://img.shields.io/badge/JavaScript-Certification%20C%23%20with%20FreeCodeCamp-blue?style=for-the-badge&logo=microsoft)
+![Certification Banner](https://img.shields.io/badge/JavaScript-Certification%20with%20FreeCodeCamp-blue?style=for-the-badge&logo=microsoft)
 
 # 📚 Projects Included
 
