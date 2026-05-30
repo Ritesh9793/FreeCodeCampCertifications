@@ -5,6 +5,8 @@ This repository contains beginner-to-intermediate projects focused on DOM manipu
 
 ---
 
+![Certification Banner](https://img.shields.io/badge/JavaScript-Certification%20C%23%20with%20FreeCodeCamp-blue?style=for-the-badge&logo=microsoft)
+
 # 📚 Projects Included
 
 ## 1️⃣ Weather App
@@ -105,6 +107,20 @@ A simple banking system built using JavaScript classes and object-oriented progr
 - DOM Manipulation
 - Async/Await
 - Object-Oriented Programming
+
+---
+
+## Certification Result
+- **Examination Question:** 50
+- **Score:** 96%
+- **Status:** Passed
+- **Date&Time:** 5/27/2026, 10:01:40 AM
+
+---
+
+## Certificate
+
+![JavaScript Certificate](./123)
 
 ---
 
