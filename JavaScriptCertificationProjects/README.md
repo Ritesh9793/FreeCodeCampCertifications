@@ -120,7 +120,7 @@ A simple banking system built using JavaScript classes and object-oriented progr
 
 ## Certificate
 
-![JavaScript Certificate](./Screenshot 2026-05-30 200835.png)
+![JavaScript Certificate](./Screenshot%202026-05-30%20200835.png)
 
 ---
 
